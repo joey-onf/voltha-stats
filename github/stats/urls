@@ -1,0 +1,7 @@
+# -*- makefile -*-
+
+https://docs.github.com/en/rest/metrics/traffic?apiVersion=2022-11-28#clones
+https://docs.github.com/en/rest/metrics/statistics?apiVersion=2022-11-28
+https://github.com/PyGithub/PyGithub
+
+# [EOF]
