@@ -1,0 +1,12 @@
+# -*- makefile -*-
+
+https://docs.docker.com/docker-hub/api/latest/
+https://github.com/docker/hub-tool#readme
+
+https://docs.docker.com/engine/reference/commandline/stats/
+
+https://stackoverflow.com/questions/53176436/docker-image-statistics-from-hub-docker-com
+
+https://docs.docker.com/registry/spec/api/
+
+# [EOF]
