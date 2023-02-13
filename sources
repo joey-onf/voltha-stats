@@ -1,0 +1,21 @@
+https://wiki.opennetworking.org/display/JOEY/opencord
+
+TST Meetings:
+  o Zoom meeting attendance
+  o Analytics: youtube video uploads
+
+gerrit:
+  o commits
+  o code reviews
+
+github:
+  o Release downloads
+  o commits
+  o pull request reviews.
+
+docker:
+  o image downloads
+
+maven-central:
+  o Release images
+

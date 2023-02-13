@@ -1,0 +1,20 @@
+# -*- makefile -*-
+
+## Stats
+https://hub.docker.com/search?q=voltha
+https://hub.docker.com/r/voltha/voltha-onos
+
+https://stackoverflow.com/questions/53176436/docker-image-statistics-from-hub-docker-com
+https://github.com/docker/hub-feedback/issues/1047
+
+https://hub.docker.com/v2/repositories/<your org>/<your image>/
+
+https://brianchristner.io/how-to-track-docker-hub-metrics/
+
+https://chaoss.github.io/grimoirelab/
+
+## Download stats for pypi
+https://pypistats.org/packages/docker
+
+
+# [EOF]

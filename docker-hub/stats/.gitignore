@@ -1,0 +1,6 @@
+# -*- makefile -*-
+
+raw/
+tmp/
+
+# [EOF]

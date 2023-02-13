@@ -1,0 +1,13 @@
+# -*- makefile -*-
+
+https://search.maven.org/stats
+
+https://stackoverflow.com/questions/8874670/detailed-download-statistics-for-artifacts-of-public-repositories-like-maven-o
+
+https://blog.sonatype.com/2010/12/now-available-central-download-statistics-for-oss-projects/
+
+https://help.sonatype.com/repomanager3/integrations/rest-and-integration-api
+
+https://ossindex.sonatype.org/doc/rest
+
+# [EOF]

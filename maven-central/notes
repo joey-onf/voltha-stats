@@ -1,0 +1,10 @@
+If you publish artifacts with OSS Sonatype (central Maven repo) there are download statistics available for the artifacts you publish from your account.
+
+Note that it usually updates a few days after each month.
+
+    Go to https://oss.sonatype.org
+    Login with the account you publish artifacts with.
+    Click "Central Statistics Repositories".
+
+Reference: Here's a blog post describing how to access the feature.
+
